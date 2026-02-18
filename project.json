@@ -4,8 +4,10 @@
   "description": "Test Automation Project of Tentabs website",
   "main": "Main.xaml",
   "dependencies": {
+    "atuipath_utilities": "[1.0.7]",
+    "Login": "[1.0.3]",
     "UiPath.System.Activities": "[25.12.0-preview]",
-    "UiPath.Testing.Activities": "[25.10.0]"
+    "UiPath.Testing.Activities": "[24.10.3]"
   },
   "webServices": [],
   "entitiesStores": [],
