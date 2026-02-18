@@ -47,6 +47,20 @@
         "testCaseId": "15f29162-2204-48a7-8a3e-d935408141b2",
         "testCaseType": "TestCase",
         "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "b954e717-906a-4eee-b7ea-8dccd248f443",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCases\\TC_Login_Valid.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "dbbecd4d-aaf5-465e-b3ff-1c74b655b08c",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCases\\TC_Login_Invalid.xaml"
       }
     ],
     "saveToCloud": false
