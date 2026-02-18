@@ -1,0 +1,6 @@
+{
+  "Name": "TenTabsAutomation",
+  "ProjectType": "Tests",
+  "Description": "Test Automation Project of Tentabs website",
+  "MainFile": "Main.xaml"
+}
