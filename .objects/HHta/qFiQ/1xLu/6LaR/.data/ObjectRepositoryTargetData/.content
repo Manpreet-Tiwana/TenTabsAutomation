@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xEjm12I3i0SUD_KbKmn2Lg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="tentabs.in/cart" CVScreenId="05ae2abd-0336-4d0c-a87f-dca5e9db33bb" CvElementArea="1398, 861, 30, 29" CvTextArea="1440, 866, 260, 19" CvTextArgument="| agree with the terms an" CvType="CheckBox" DesignTimeRectangle="1402, 862, 435, 29" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='I agree with the terms and conditions. ' tag='LABEL' /&gt;" Guid="4ef7b863-021e-48da-a3fb-718e4d41e3b3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Your Shopping Cart' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2c3b643dc73e68805b69075a0cfe55f1.jpg" xmlns="">0zw5rMKtJA0iTzAa_8AqWtg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

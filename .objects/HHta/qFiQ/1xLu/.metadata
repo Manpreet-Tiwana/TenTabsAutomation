@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Your Shopping Cart",
+  "Type": "Screen",
+  "Id": "1xLuGO_pp0i3y2sDOLcC0w",
+  "Reference": "Ir7K7m3q-kGS9j4XD94zWg/1xLuGO_pp0i3y2sDOLcC0w",
+  "ParentRef": "Ir7K7m3q-kGS9j4XD94zWg/qFiQNpP0UEiBHykGrivr0Q",
+  "Created": "2026-02-18T11:15:22.5642403Z",
+  "Updated": "2026-02-18T11:15:22.5642403Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.26.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
